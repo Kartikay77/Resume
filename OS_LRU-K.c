@@ -59,7 +59,6 @@ faults++;
 frames[pos] = pages[i];
 time[pos] = counter;
 }
-P a g e | 18
 printf("\n");
 for(j=0;j<fram;++j)
 {
