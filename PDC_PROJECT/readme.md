@@ -48,3 +48,6 @@ Use [GitHub Issues](https://github.com/TheFighters/Smith-Waterman/issues) for al
 5. Submit a pull request.
 
 All pull requests are welcome !
+
+## Authors
+This project was develloped by [Kartikay Gupta](https://github.com/Kartikay77)
