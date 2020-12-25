@@ -9,4 +9,4 @@ For finding [Co-ordinates of the Host](https://github.com/Kartikay77/Resume/blob
 
 For finding [Your IP address and Hostname](https://github.com/Kartikay77/Resume/blob/main/SIN_PROJECT/NewClass1.java)
 
-! [Your IP address and Hostname](https://github.com/Kartikay77/Resume/blob/main/SIN_PROJECT/yourip%2Cyourhostname.JPG?raw=true)
+![Your IP address and Hostname](https://github.com/Kartikay77/Resume/blob/main/SIN_PROJECT/yourip%2Cyourhostname.JPG?raw=true)
