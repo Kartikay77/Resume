@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.security.Key; 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec; 
-public class cryptog { 
+public class cryptogRSA { 
 	private static long
 	startTime = System.currentTimeMillis(); 
 	static void fileProcessor(int cipherMode ,String key,File inputFile,File outputFile)
