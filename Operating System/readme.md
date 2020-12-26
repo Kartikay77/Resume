@@ -1,4 +1,4 @@
-## For finding [pagereplacement using LRU]()
+## For finding pagereplacement using LRU
 
 ### Sample Output
 ![LRU output](https://github.com/Kartikay77/Resume/blob/main/Operating%20System/LRU.JPG?raw=true)
