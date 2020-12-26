@@ -1,4 +1,4 @@
-## Programming NodeMCU for Smart Irrigation System
+## Smart Farming using IoT, a cheap solution for optimally monitoring farming conditions
 To program the NodeMCU for Smart Irrigation System, plug the NodeMCU to your laptop with a Micro USB Cable and open Arduino IDE. In this program, only the Adafruit MQTT library is used as an external library. You can download the library from here:
 
 Adafruit_MQTT.h
