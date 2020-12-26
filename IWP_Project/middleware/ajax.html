@@ -1,0 +1,41 @@
+<html lang="en" style="text-align: center">
+<head>
+    <body style="background-color:#6dd5ed;">
+        <h1>Win Jackpot</h1>
+        <h2>Tanishq Padwal 18BCE2237</h2>
+        <label for="nu">Enter a 4 Digit Number.</label>
+        <input type="text" id="number">
+        <button onclick="loadD()">Submit</button>
+        <h3 id="lastdig">
+        </h3>
+        </body>
+<script>
+function loadD() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function () {
+if (this.readyState == 4 && this.status == 200) {
+shuffle();
+} else {
+shuffle();
+}};
+xhttp.open("GET", true);
+xhttp.send();
+}
+function shuffle() {
+var i = document.getElementById("number").value;
+var disp = document.getElementById("lastdig");
+if(i.length == 4){
+if (i[i.length - 1] == 7) {
+disp.innerHTML = "Prize money Rs 1000";
+} else if (i[i.length - 1] == 9) {
+disp.innerHTML = "Prize money Rs 3000";
+} else {
+disp.innerHTML = "Prize money Rs 100";
+}} else {
+disp.innerHTML = "Please Enter 4 Digit number";
+}}
+</script>
+</head>
+
+
+</html>
