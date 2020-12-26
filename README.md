@@ -10,4 +10,4 @@ This repository contains evey project done during my graduation from Vellore Ins
 All pull requests are welcome !
 
 ## Authors
-This project was develloped by [Kartikay Gupta](https://github.com/Kartikay77)
+These project was develloped by [Kartikay Gupta](https://github.com/Kartikay77)
