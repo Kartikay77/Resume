@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "BalajiStationary  ",
+    "company": "  162 ",
+    "phone": "123450  ",
+    "bankName": "Cash "
+  },
+  {
+    "id": 2,
+    "name": "XeroxShop   ",
+    "company": "362 ",
+    "phone": "77650 ",
+    "bankName": "Cheque  "
+  },
+  {
+    "id": 3,
+    "name": "Mongo ",
+    "company": "265",
+    "phone": "15700",
+    "bankName": "NEFT "
+  }
+,
+  {
+    "id": 4,
+    "name": "EasyAcc",
+    "company": "336 ",
+    "phone": "98000  ",
+    "bankName": "NEFT  "
+  }
+,
+  {
+    "id": 5,
+    "name": "ZeeStop ",
+    "company": "234",
+    "phone": "12300 ",
+    "bankName": "Cash  "
+  }
+,
+  {
+    "id": 6,
+    "name": "SmokeTrees ",
+    "company": "447",
+    "phone": "23000 ",
+    "bankName": "Cheque "
+  }
+,
+  {
+    "id": 7,
+    "name": "RedGear ",
+    "company": "2388 ",
+    "phone": "12345",
+    "bankName": "Cash   "
+  }
+,
+  {
+    "id": 8,
+    "name": "Asus",
+    "company": "111",
+    "phone": "33445",
+    "bankName": "NEFT"
+  }
+,
+  {
+    "id": 9,
+    "name": "Logitech ",
+    "company": "100 ",
+    "phone": "55443 ",
+    "bankName": "NEFT"
+  }
+,
+  {
+    "id": 10,
+    "name": "ZenMode ",
+    "company": "1221",
+    "phone": "11245  ",
+    "bankName": "Cheque "
+  }
+]
