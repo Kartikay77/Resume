@@ -1,6 +1,7 @@
+# Sample Output
+
 ## For finding [localhost address and local hostname](https://github.com/Kartikay77/Resume/blob/main/SIN_PROJECT/Main.java)
 
-## Sample Output
 ![Demo Doccou alpha](https://github.com/Kartikay77/Resume/blob/main/SIN_PROJECT/localhostaddress%2Clocalhostname.JPG?raw=true)
 
 ## For finding [Co-ordinates of the Host](https://github.com/Kartikay77/Resume/blob/main/SIN_PROJECT/sin.html)
