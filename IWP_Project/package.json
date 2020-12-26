@@ -1,0 +1,36 @@
+{
+  "name": "app-express",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.0",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "~1.4.5",
+    "debug": "~4.1.1",
+    "express": "~4.17.1",
+    "express-handlebars": "^5.1.0",
+    "express-session": "^1.17.1",
+    "hbs": "^4.1.1",
+    "http-errors": "~1.8.0",
+    "mongoose": ">=5.9.24",
+    "morgan": "~1.10.0"
+  },
+  "description": "IWP uwu",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "`add later`"
+  },
+  "keywords": [
+    "node-express"
+  ],
+  "author": "`add later`",
+  "license": "ISC"
+}
