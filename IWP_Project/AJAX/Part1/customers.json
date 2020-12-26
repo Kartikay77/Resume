@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "BalajiStationary  ",
+    "company": "  BalajiStat@gmail.com  ",
+    "phone": "135738392  ",
+    "bankName": "Axis Bank  "
+  },
+  {
+    "id": 2,
+    "name": "XeroxShop   ",
+    "company": "XeroxShop@gmail.com ",
+    "phone": "246838392  ",
+    "bankName": "SBI  "
+  },
+  {
+    "id": 3,
+    "name": "Mongo ",
+    "company": "Mongo@gmail.com ",
+    "phone": "124538392",
+    "bankName": "CIB "
+  }
+,
+  {
+    "id": 4,
+    "name": "EasyAcc",
+    "company": "EasyAcc@gmail.com ",
+    "phone": "673238392  ",
+    "bankName": "SBI  "
+  }
+,
+  {
+    "id": 5,
+    "name": "ZeeStop ",
+    "company": "ZeeStop@gmail.com ",
+    "phone": "713038392 ",
+    "bankName": "HDFC  "
+  }
+,
+  {
+    "id": 6,
+    "name": "SmokeTrees ",
+    "company": "SmokeTrees@gmail.com",
+    "phone": "174238392 ",
+    "bankName": "Axis Bank  "
+  }
+,
+  {
+    "id": 7,
+    "name": "RedGear ",
+    "company": "RedGear@gmail.com ",
+    "phone": "157338392 ",
+    "bankName": "Axis Bank  "
+  }
+,
+  {
+    "id": 8,
+    "name": "Asus",
+    "company": "Asus@gmail.com",
+    "phone": "321138392",
+    "bankName": "CIB"
+  }
+,
+  {
+    "id": 9,
+    "name": "Logitech ",
+    "company": "Logitech@gmail.com ",
+    "phone": "994138392 ",
+    "bankName": "SBI"
+  }
+,
+  {
+    "id": 10,
+    "name": "ZenMode ",
+    "company": "ZenMode@gmail.com ",
+    "phone": "124738392  ",
+    "bankName": "HDFC "
+  }
+]
