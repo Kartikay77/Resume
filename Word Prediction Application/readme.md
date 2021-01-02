@@ -4,9 +4,9 @@
 
 ## Sample Outputs for trie data structure code 
 
-![1st Output for trie data structure](https://github.com/Kartikay77/Resume/blob/main/DSA_PROJECT/Trie%20output1.JPG?raw=true)
+![1st Output for trie data structure](https://github.com/Kartikay77/Resume/blob/main/Word%20Prediction%20Application/media/Trie%20output1.JPG?raw=true)
 
-![2nd Output for trie data structure](https://github.com/Kartikay77/Resume/blob/main/DSA_PROJECT/Trie%20output2.JPG?raw=true)
+![2nd Output for trie data structure](https://github.com/Kartikay77/Resume/blob/main/Word%20Prediction%20Application/media/Trie%20output2.JPG?raw=true)
 
 
 
@@ -14,7 +14,7 @@
 
 # Sample Output for n-grams algorithm code
 
-![Output for n-grams algorithm](https://github.com/Kartikay77/Resume/blob/main/DSA_PROJECT/n-grams%20output1.JPG?raw=true)
+![Output for n-grams algorithm](https://github.com/Kartikay77/Resume/blob/main/Word%20Prediction%20Application/media/n-grams%20output1.JPG?raw=true)
 
 
 ## Contributing
