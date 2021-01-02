@@ -1,4 +1,4 @@
-# For [AES ALGORITHM](https://github.com/Kartikay77/Resume/blob/main/information_audit/cryptogAES.java)
+# For [AES ALGORITHM](https://github.com/Kartikay77/Resume/blob/main/Analysis%20of%20AES%20%2CDES%20and%20RSA%20Algorithms%20on%20Various%20Multimedia%20Platforms/cryptogAES.java)
 
 ## Sample Output
 ![AES PDF OUTPUT](https://github.com/Kartikay77/Resume/blob/main/Analysis%20of%20AES%20%2CDES%20and%20RSA%20Algorithms%20on%20Various%20Multimedia%20Platforms/media/AES%20PDF%20CODE%20AND%20OUTPUT.JPG?raw=true)
@@ -10,7 +10,7 @@
 ![AES XLSX OUTPUT](https://github.com/Kartikay77/Resume/blob/main/Analysis%20of%20AES%20%2CDES%20and%20RSA%20Algorithms%20on%20Various%20Multimedia%20Platforms/media/AES%20XLSX%20OUTPUT.JPG?raw=true)
 
 
-# For [DES ALGORITHM](https://github.com/Kartikay77/Resume/blob/main/information_audit/cryptogDES.java)
+# For [DES ALGORITHM](https://github.com/Kartikay77/Resume/blob/main/Analysis%20of%20AES%20%2CDES%20and%20RSA%20Algorithms%20on%20Various%20Multimedia%20Platforms/cryptogDES.java)
 
 ## Sample Output
 ![DES PDF INPUT](https://github.com/Kartikay77/Resume/blob/main/Analysis%20of%20AES%20%2CDES%20and%20RSA%20Algorithms%20on%20Various%20Multimedia%20Platforms/media/DES%20PDF%20CODE.JPG?raw=true)
@@ -24,7 +24,7 @@
 
 
 ## Sample Output
-# For [RSA ALGORITHM](https://github.com/Kartikay77/Resume/blob/main/information_audit/cryptogRSA.java)
+# For [RSA ALGORITHM](https://github.com/Kartikay77/Resume/blob/main/Analysis%20of%20AES%20%2CDES%20and%20RSA%20Algorithms%20on%20Various%20Multimedia%20Platforms/cryptogRSA.java)
 
 ![RSA PDF OUTPUT](https://github.com/Kartikay77/Resume/blob/main/Analysis%20of%20AES%20%2CDES%20and%20RSA%20Algorithms%20on%20Various%20Multimedia%20Platforms/media/RSA%20PDF%20CODE%20AND%20OUTPUT.JPG?raw=true)
 
