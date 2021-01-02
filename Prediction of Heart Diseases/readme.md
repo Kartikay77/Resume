@@ -10,7 +10,7 @@
 
 ![Desicion Tree Clasifier](https://github.com/Kartikay77/Resume/blob/main/DV_PROJECT/Decision%20python.JPG?raw=true)
 
-![Rf](https://github.com/Kartikay77/Resume/blob/main/DV_PROJECT/RF%20python.JPG?raw=true)
+![Rf](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/CaptureRF%20python.JPG?raw=true)
 
 ## [R code](https://github.com/Kartikay77/Resume/blob/main/DV_PROJECT/R%20code.R)
 
