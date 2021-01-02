@@ -29,9 +29,12 @@ In Boards Manager window, Type esp in the search box, esp8266 will be listed the
 ![d](https://github.com/Kartikay77/Resume/blob/main/Smart%20Farming%20using%20IoT/media/IoT4.png?raw=true)
 
 
- ## [Software code](https://github.com/Kartikay77/Resume/blob/main/Smart%20Farming%20using%20IoT/main.cpp)
+
 
 After installation is complete, go to Tools >Board >and select NodeMCU 1.0(ESP-12E Module). Now you can program NodeMCU with Arduino IDE.
+
+ ## [Software code](https://github.com/Kartikay77/Resume/blob/main/Smart%20Farming%20using%20IoT/main.cpp)
+ 
 ## Contributing
 1. Fork the project.
 2. Create a branch for your new feature.
