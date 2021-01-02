@@ -6,4 +6,12 @@ and yearly views.
 • We can enter daily salaries and it will show how much we have paid monthly or yearly.
 • Thus giving us a proper estimate of the moneyflow
 
-## sample output
+## sample output 
+### monthly salary of employee
+![for yearly salary of employee](https://github.com/Kartikay77/Resume/blob/main/Accounting%20System%20for%20small%20scale%20businesses/REACT/media/react1.JPG?raw=true)
+
+### yearly salary of employee
+![for y salary of employee](https://github.com/Kartikay77/Resume/blob/main/Accounting%20System%20for%20small%20scale%20businesses/REACT/media/react2.JPG?raw=true)
+
+## for deleteing record
+![for del salary of employee](https://github.com/Kartikay77/Resume/blob/main/Accounting%20System%20for%20small%20scale%20businesses/REACT/media/react3.JPG?raw=true)
