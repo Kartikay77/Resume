@@ -17,7 +17,7 @@
 ## Sample R Output
 ![Logistic Regression in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/LR%20R.JPG?raw=true)
 
-![SVM in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/SVM%20R.JPGG?raw=true)
+![SVM in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/SVM%20R.JPG?raw=true)
 
 ![dtc1 in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/DTC%20R.JPG?raw=true)
 ![dtc2 in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/DTC%20R2.JPG?raw=true)
