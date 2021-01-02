@@ -6,7 +6,7 @@
 
 ## For finding [Co-ordinates of the Host](https://github.com/Kartikay77/Resume/blob/main/TACKLE%20PROBLEMS%20OF%20CYBER%20SECURITY%20IN%20SOCIAL%20NETWORKS/sin.html)
 
-![Co-ordinates of the Host](https://github.com/Kartikay77/Resume/blob/main/TACKLE%20PROBLEMS%20OF%20CYBER%20SECURITY%20IN%20SOCIAL%20NETWORKS/media/longitude%2Clatitude%20of%20the%20intruder.JPG.JPG?raw=true)
+![Co-ordinates of the Host](https://github.com/Kartikay77/Resume/blob/main/TACKLE%20PROBLEMS%20OF%20CYBER%20SECURITY%20IN%20SOCIAL%20NETWORKS/media/longitude%2Clatitude%20of%20the%20intruder.JPG?raw=true)
 
 ## For finding [Your IP address and Hostname](https://github.com/Kartikay77/Resume/blob/main/TACKLE%20PROBLEMS%20OF%20CYBER%20SECURITY%20IN%20SOCIAL%20NETWORKS/NewClass1.java)
 
