@@ -12,7 +12,7 @@
 
 ![Rf](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/RF%20python.JPG?raw=true)
 
-## [R code](https://github.com/Kartikay77/Resume/blob/main/DV_PROJECT/R%20code.R)
+## [R code](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/R%20code.R)
 
 ## Sample R Output
 ![Logistic Regression in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/LR%20R.JPG?raw=true)
