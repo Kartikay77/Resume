@@ -1,6 +1,6 @@
 # Word Prediction System using trie and n-grams algorithm in C++
 
-## [Code in C++ for word prediction using trie data structure](https://github.com/Kartikay77/Resume/blob/main/DSA_PROJECT/dsa%20Trie%20code.cpp)
+## [Code in C++ for word prediction using trie data structure](https://github.com/Kartikay77/Resume/blob/main/Word%20Prediction%20Application/dsa%20Trie%20code.cpp)
 
 ## Sample Outputs for trie data structure code 
 
@@ -10,7 +10,7 @@
 
 
 
-## [Code in C++ for word prediction using n-grams data structure](https://github.com/Kartikay77/Resume/blob/main/DSA_PROJECT/dsa%20n-grams%20code.cpp)
+## [Code in C++ for word prediction using n-grams data structure](https://github.com/Kartikay77/Resume/blob/main/Word%20Prediction%20Application/dsa%20n-grams%20code.cpp)
 
 # Sample Output for n-grams algorithm code
 
