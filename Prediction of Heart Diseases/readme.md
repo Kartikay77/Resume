@@ -1,5 +1,5 @@
 # Heart disease analysis and prediction system
-## [Python/Jupter Notebook code](https://github.com/Kartikay77/Resume/blob/main/DV_PROJECT/Heart%20disease%20analysis%20and%20prediction%20system%20(1).ipynb)
+## [Python/Jupter Notebook code](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/Heart%20disease%20analysis%20and%20prediction%20system%20(1).ipynb)
 
 
 
