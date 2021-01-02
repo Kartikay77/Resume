@@ -25,7 +25,7 @@
 ![Rf1 in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/RF1%20R.JPG?raw=true)
 ![Rf2 in R](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/media/RF%20R2.JPG?raw=true)
 
-## Sample tableau dashboard[ Heart Disease UCI Dashboard (1).twbx](https://github.com/Kartikay77/Resume/tree/main/DV_PROJECT)
+## Sample tableau dashboard[ Heart Disease UCI Dashboard (1).twbx](https://github.com/Kartikay77/Resume/blob/main/Prediction%20of%20Heart%20Diseases/Heart%20Disease%20UCI%20Dashboard%20(1)%20(2).twbx)
 
 
     
