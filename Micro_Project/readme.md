@@ -3,10 +3,10 @@
 ## Hardware connections in breadboard
 
 #### 1st image
-![a](https://github.com/Kartikay77/Resume/blob/main/Micro_Project/MICRO%20J1.JPG?raw=true)
+![a](https://github.com/Kartikay77/Resume/blob/main/MORSE%20CODE%20ENCODER/media/MICRO%20J1.jpg?raw=true)
 
 #### 2nd image
-![b](https://github.com/Kartikay77/Resume/blob/main/Micro_Project/MICRO%20J2.JPG?raw=true)
+![b](https://github.com/Kartikay77/Resume/blob/main/MORSE%20CODE%20ENCODER/media/MICRO%20J2.jpg?raw=true)
 
 ## [Software code in aurdino](https://github.com/Kartikay77/Resume/blob/main/Micro_Project/micro%20MORSE%20CODE%20ENCODER.c)
 
