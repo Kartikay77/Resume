@@ -25,8 +25,6 @@ The aim is to propose a technology which can generate messages on different plat
 ## [TACKLE PROBLEMS OF CYBER SECURITY IN SOCIAL NETWORKS](https://github.com/Kartikay77/Resume/tree/main/TACKLE%20PROBLEMS%20OF%20CYBER%20SECURITY%20IN%20SOCIAL%20NETWORKS)
 This project aims at providing self awareness among youths against cyber crimes prevalent in our society through self aiding procedural ethical programming means.
 
-## [Word Prediction System](https://github.com/Kartikay77/Resume/tree/main/Word%20Prediction%20Application)
-This project aims to predict word by just typing few intial letters of the word.
 
 ## [ONLINE CAB MANAGEMENT SYSTEM](https://github.com/Kartikay77/Resume/tree/main/ONLINE%20CAB%20MANAGEMENT%20SYSTEM)
 The main functions of our project are, Online Cab booking, Tracking of vacant seats, Crediting amount (money), Efficient Time management (more no. of cabs during busy hours in a day)
