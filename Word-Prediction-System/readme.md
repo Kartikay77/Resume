@@ -1,7 +1,7 @@
 # Word Prediction System using trie and n-grams algorithm in C++
 To understand the dynamic data structure TRIE and n-grams based on it develop a program having industrial application to predict words .
 
-## [Code in C++ for word prediction using trie data structure](https://github.com/Kartikay77/Word-Prediction-System/blob/main/dsa%20Trie%20code.cpp)
+## [Code in C++ for word prediction using trie data structure](https://github.com/Kartikay77/Resume/blob/main/Word-Prediction-System/dsa%20Trie%20code.cpp)
 
 ## Sample Outputs for trie data structure code 
 
@@ -11,7 +11,7 @@ To understand the dynamic data structure TRIE and n-grams based on it develop a 
 
 
 
-## [Code in C++ for word prediction using n-grams data structure](https://github.com/Kartikay77/Word-Prediction-System/blob/main/dsa%20n-grams%20code.cpp)
+## [Code in C++ for word prediction using n-grams data structure](https://github.com/Kartikay77/Resume/blob/main/Word-Prediction-System/dsa%20n-grams%20code.cpp)
 
 # Sample Output for n-grams algorithm code
 
