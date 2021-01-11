@@ -5,9 +5,9 @@ To understand the dynamic data structure TRIE and n-grams based on it develop a 
 
 ## Sample Outputs for trie data structure code 
 
-![1st Output for trie data structure](https://github.com/Kartikay77/Word-Prediction-System/blob/main/media/Trie%20output1.jpg?raw=true)
+![1st Output for trie data structure](https://github.com/Kartikay77/Resume/blob/main/Word-Prediction-System/media/Trie%20output1.jpg?raw=true)
 
-![2nd Output for trie data structure](https://github.com/Kartikay77/Word-Prediction-System/blob/main/media/Trie%20output2.jpg?raw=true)
+![2nd Output for trie data structure](https://github.com/Kartikay77/Resume/blob/main/Word-Prediction-System/media/Trie%20output2.jpg?raw=true)
 
 
 
@@ -15,7 +15,7 @@ To understand the dynamic data structure TRIE and n-grams based on it develop a 
 
 # Sample Output for n-grams algorithm code
 
-![Output for n-grams algorithm](https://github.com/Kartikay77/Word-Prediction-System/blob/main/media/n-grams%20output1.jpg?raw=true)
+![Output for n-grams algorithm](https://github.com/Kartikay77/Resume/blob/main/Word-Prediction-System/media/n-grams%20output1.jpg?raw=true)
 
 
 ## Contributing
