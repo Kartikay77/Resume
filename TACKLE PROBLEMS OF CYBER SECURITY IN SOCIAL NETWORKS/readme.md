@@ -1,3 +1,6 @@
+# TACKLE-PROBLEMS-OF-CYBER-SECURITY-IN-SOCIAL-NETWORKS
+To find Your IP address and Hostname, Co-ordinates of the Host, localhost address and local hostname
+
 # Sample Output
 
 ## For finding [localhost address and local hostname](https://github.com/Kartikay77/Resume/blob/main/TACKLE%20PROBLEMS%20OF%20CYBER%20SECURITY%20IN%20SOCIAL%20NETWORKS/Main.java)
