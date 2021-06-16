@@ -34,6 +34,8 @@ The main functions of our project are, Online Cab booking, Tracking of vacant se
 ## [SENTIMENT ANALYSIS OF TEXT EMOTION ON TWITTER](https://github.com/Kartikay77/Resume/tree/main/snlp_SENTIMENT%20ANALYSIS%20OF%20TEXT%20EMOTION%20ON%20TWITTER)
 The novelty in our project lies in the use of a hybrid-based approach for sentiment analysis. We have not only checked the success rate of different algorithms but also implemented an algorithm to our own understanding and incorporated an aspect that allows us to judge Sentiment in the tweets.
 
+## [MARIAL PARASITE DETECTION SYSTEM](https://github.com/Kartikay77/Resume/tree/main/MARIAL%20PARASITE%20DETECTION%20SYSTEM)
+In this we take indian dataset for finding malaria infection in blood cell of humans and predicting with the help of residual netwok wherther malaria is present in blood cell or not. 
 ## Contributing
 1. Fork the project.
 2. Create a branch for your new feature.
