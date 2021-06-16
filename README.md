@@ -31,6 +31,9 @@ To understand the dynamic data structure TRIE and n-grams based on it develop a 
 ## [ONLINE CAB MANAGEMENT SYSTEM](https://github.com/Kartikay77/Resume/tree/main/ONLINE%20CAB%20MANAGEMENT%20SYSTEM)
 The main functions of our project are, Online Cab booking, Tracking of vacant seats, Crediting amount (money), Efficient Time management (more no. of cabs during busy hours in a day)
 
+## [SENTIMENT ANALYSIS OF TEXT EMOTION ON TWITTER](https://github.com/Kartikay77/Resume/tree/main/snlp_SENTIMENT%20ANALYSIS%20OF%20TEXT%20EMOTION%20ON%20TWITTER)
+The novelty in our project lies in the use of a hybrid-based approach for sentiment analysis. We have not only checked the success rate of different algorithms but also implemented an algorithm to our own understanding and incorporated an aspect that allows us to judge Sentiment in the tweets.
+
 ## Contributing
 1. Fork the project.
 2. Create a branch for your new feature.
